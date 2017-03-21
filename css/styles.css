@@ -1,0 +1,19 @@
+.background-color{
+  background-color:grey;
+}
+.background-color1{
+  background-color:blue;
+}
+.background-color2{
+  background-color:yellow;
+}
+
+#dog {
+  height: 300px;
+  width: auto;
+}
+
+#pic{
+  display: none;
+  float: right;
+}
